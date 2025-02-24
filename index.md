@@ -8,7 +8,7 @@ Beomseuk Seo bseo@ucsd.edu
 
 Mentor: Mikio Aoi maoi@ucsd.edu
 
-## Abstract:
+**### Abstract:**
 
 ### Introduction:
 
