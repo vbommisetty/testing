@@ -4,11 +4,11 @@
 
 Vaibhav Bommisetty vbommisetty@ucsd.edu
 
-Beomseuk Seo bseo@ucsd.edu
+Mentor: Aritra Das ardas@ucsd.edu
 
 Mentor: Mikio Aoi maoi@ucsd.edu
 
-### Abstract:
+### Summary:
 
 ### Introduction:
 
